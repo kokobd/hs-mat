@@ -1,0 +1,4 @@
+/stack.yaml
+/stack.local.yaml
+.stack-work/
+.vscode/

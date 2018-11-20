@@ -1,0 +1,4 @@
+require-stack-version: ">=1.9"
+resolver: lts-12.17
+packages:
+- .
